@@ -64,9 +64,11 @@ This list is **UNSORTED**.
 
 [d3 force implementation for react](https://github.com/uber/react-vis-force)
 
-##Wrappers for other charting libraries
+##Wrappers for other charting libraries & standalone react-charting libraries (NOT necessarily directly linked to D3)
 
 [react-highcharts](https://github.com/kirjs/react-highcharts)
+
+[recharts](http://recharts.org)
 
 ----------
 
