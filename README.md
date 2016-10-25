@@ -7,6 +7,8 @@ That distinction either requires the user to know more about react or d3, vice v
 
 The following list tries to summarize some of the approaches, hopefully there will be some convergence to a (set of) standard(s), at one point.
 
+Also, I included a short section on react wrappers for other charting libraries, such as highcharts.
+
 This list is **UNSORTED**.
 
 **PLEASE** let me know of any other links that should be included here ... PRs very welcome
@@ -44,10 +46,10 @@ This list is **UNSORTED**.
 
 [D3 with React | Andreas Savvides | Reactive 2015](https://www.youtube.com/watch?v=NFTWq10bYcs)
 
-##github sources/libraries
+##github sources/libraries and examples
 [d3act, motivated by Nicolas' approach, see above](https://github.com/AnSavvides/d3act); this even [...has a youtube motivation](https://www.youtube.com/watch?v=6Pbf0n85HH8)
 
-[NEW: Victory, by Colin Megill of FormidableLabs](https://github.com/FormidableLabs/victory) again [with video](https://www.youtube.com/watch?v=n8TwLWsR40Y)
+[Victory, of FormidableLabs](https://github.com/FormidableLabs/victory) again [with video](https://www.youtube.com/watch?v=n8TwLWsR40Y)
 
 [react-d3, library including charts](https://github.com/esbullington/react-d3)
 
@@ -55,7 +57,13 @@ This list is **UNSORTED**.
 
 [link highlights using reflux](https://github.com/pbeshai/linked-highlighting-react-d3-reflux)
 
+####Concrete implementations of d3 charts as react components
+
 [d3 force implementation for react](https://github.com/uber/react-vis-force)
+
+##Wrappers for other charting libraries
+
+[react-highcharts](https://github.com/kirjs/react-highcharts)
 
 ----------
 
