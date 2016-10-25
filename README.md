@@ -47,6 +47,7 @@ This list is **UNSORTED**.
 [D3 with React | Andreas Savvides | Reactive 2015](https://www.youtube.com/watch?v=NFTWq10bYcs)
 
 ##github sources/libraries and examples
+
 [d3act, motivated by Nicolas' approach, see above](https://github.com/AnSavvides/d3act); this even [...has a youtube motivation](https://www.youtube.com/watch?v=6Pbf0n85HH8)
 
 [Victory, of FormidableLabs](https://github.com/FormidableLabs/victory) again [with video](https://www.youtube.com/watch?v=n8TwLWsR40Y)
@@ -56,6 +57,8 @@ This list is **UNSORTED**.
 [react-d3-components](https://github.com/codesuki/react-d3-components)
 
 [link highlights using reflux](https://github.com/pbeshai/linked-highlighting-react-d3-reflux)
+
+[react-vis, by Uber](https://github.com/uber/react-vis)
 
 ####Concrete implementations of d3 charts as react components
 
