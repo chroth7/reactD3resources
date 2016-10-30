@@ -56,6 +56,8 @@ This list is **UNSORTED**.
 
 [link highlights using reflux](https://github.com/pbeshai/linked-highlighting-react-d3-reflux)
 
+[Polar Charts "react-polar-gg"](https://github.com/widged/react-polar-gg)
+
 ####Concrete implementations of d3 charts as react components
 
 [d3 force implementation for react](https://github.com/uber/react-vis-force)
@@ -69,6 +71,22 @@ This list is **UNSORTED**.
 [recharts](http://recharts.org)
 
 [react-vis, by Uber](https://github.com/uber/react-vis)
+
+##Blocks. Various approaches
+
+[React, D3, TopoJSON](http://bl.ocks.org/herrstucki/9204795)
+
+[Force, React, D3, Part 1](http://bl.ocks.org/sxywu/61a4bd0cfc373cf08884)
+
+[Force, React, D3, Part 2](http://bl.ocks.org/sxywu/1db896c1a38d89ae71b4)
+
+[Force, React, D3, Part 3](http://bl.ocks.org/sxywu/fcef0e6dac231ef2e54b)
+
+[Sparkline](http://bl.ocks.org/milroc/aacdb75156d51d9dbe4d)
+
+[Bar Chart and React/Flux (not redux), part of a series](http://bl.ocks.org/milroc/d22bbf92231876505e5d)
+
+
 
 ----------
 
