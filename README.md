@@ -41,6 +41,8 @@ This list is **UNSORTED**.
 
 [d4 - Declarative Data-Driven Documents](https://github.com/joelburget/d4)
 
+[Mixing d3 and React](http://www.macwright.org/2016/10/11/d3-and-react.html) and [Animating d3 and React with react-motion](http://www.macwright.org/2016/10/28/animating-react-and-d3.html) - approach of letting React manage the DOM.
+
 ### Videos
 [Benjamin Malley at Midwest JS 2015: Interactive Data Visualization with React and D3](https://www.youtube.com/watch?v=nBwm48eM1iY)
 
