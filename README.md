@@ -13,6 +13,8 @@ This list is **UNSORTED**.
 
 **PLEASE** let me know of any other links that should be included here ... PRs very welcome
 
+
+
 ##HOWTO/Tutorials/Articles
 (find the author's contacts on the respective pages)
 
@@ -43,10 +45,14 @@ This list is **UNSORTED**.
 
 [Mixing d3 and React](http://www.macwright.org/2016/10/11/d3-and-react.html) and [Animating d3 and React with react-motion](http://www.macwright.org/2016/10/28/animating-react-and-d3.html) - approach of letting React manage the DOM.
 
+
+
 ### Videos
 [Benjamin Malley at Midwest JS 2015: Interactive Data Visualization with React and D3](https://www.youtube.com/watch?v=nBwm48eM1iY)
 
 [D3 with React | Andreas Savvides | Reactive 2015](https://www.youtube.com/watch?v=NFTWq10bYcs)
+
+
 
 ##github sources/libraries and examples
 
@@ -60,9 +66,15 @@ This list is **UNSORTED**.
 
 [Polar Charts "react-polar-gg"](https://github.com/widged/react-polar-gg)
 
+[react-d3-library](http://react-d3-library.github.io)
+
+
+
 ####Concrete implementations of d3 charts as react components
 
 [d3 force implementation for react](https://github.com/uber/react-vis-force)
+
+
 
 ##Wrappers & standalone react-charting libraries (NOT necessarily directly linked to D3)
 
@@ -73,6 +85,8 @@ This list is **UNSORTED**.
 [recharts](http://recharts.org)
 
 [react-vis, by Uber](https://github.com/uber/react-vis)
+
+
 
 ##Blocks. Various approaches
 
