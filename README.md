@@ -15,7 +15,7 @@ This list is **UNSORTED**.
 
 
 
-##HOWTO/Tutorials/Articles
+## HOWTO/Tutorials/Articles
 (find the author's contacts on the respective pages)
 
 [10consulting](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
@@ -54,7 +54,7 @@ This list is **UNSORTED**.
 
 
 
-##github sources/libraries and examples
+## github sources/libraries and examples
 
 [d3act, motivated by Nicolas' approach, see above](https://github.com/AnSavvides/d3act); this even [...has a youtube motivation](https://www.youtube.com/watch?v=6Pbf0n85HH8)
 
@@ -72,13 +72,13 @@ This list is **UNSORTED**.
 
 
 
-####Concrete implementations of d3 charts as react components
+#### Concrete implementations of d3 charts as react components
 
 [d3 force implementation for react](https://github.com/uber/react-vis-force)
 
 
 
-##Wrappers & standalone react-charting libraries (NOT necessarily directly linked to D3)
+## Wrappers & standalone react-charting libraries (NOT necessarily directly linked to D3)
 
 [Victory, of FormidableLabs](https://github.com/FormidableLabs/victory) again [with video](https://www.youtube.com/watch?v=n8TwLWsR40Y)
 
@@ -90,7 +90,7 @@ This list is **UNSORTED**.
 
 
 
-##Blocks. Various approaches
+## Blocks. Various approaches
 
 [React, D3, TopoJSON](http://bl.ocks.org/herrstucki/9204795)
 
