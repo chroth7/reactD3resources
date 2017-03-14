@@ -68,6 +68,8 @@ This list is **UNSORTED**.
 
 [react-d3-library](http://react-d3-library.github.io)
 
+[d3-component by Curran Kelleher](https://github.com/curran/d3-component)
+
 
 
 ####Concrete implementations of d3 charts as react components
