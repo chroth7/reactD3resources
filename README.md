@@ -70,6 +70,8 @@ This list is **UNSORTED**.
 
 [d3-component by Curran Kelleher](https://github.com/curran/d3-component)
 
+[vx](https://github.com/hshoff/vx)
+
 
 
 #### Concrete implementations of d3 charts as react components
