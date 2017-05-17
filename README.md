@@ -90,6 +90,8 @@ This list is **UNSORTED**.
 
 [react-vis, by Uber](https://github.com/uber/react-vis)
 
+[Orama.JS](http://oramajs.com)
+
 
 
 ## Blocks. Various approaches
