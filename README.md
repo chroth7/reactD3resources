@@ -13,7 +13,9 @@ This list is **UNSORTED**.
 
 **PLEASE** let me know of any other links that should be included here ... PRs very welcome
 
-
+## Chat
+There is a D3 slack community, get your account here: https://d3-slackin.herokuapp.com
+Make sure to join #react!
 
 ## HOWTO/Tutorials/Articles
 (find the author's contacts on the respective pages)
